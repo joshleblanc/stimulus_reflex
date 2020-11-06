@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module StimulusReflex
-  VERSION = "2.0.1"
+  VERSION = "3.4.0.pre1"
 end
